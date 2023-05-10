@@ -1,0 +1,114 @@
+{
+  "about": {
+    "en": "about",
+    "zh-cn": "\u5173\u4e8e",
+    "zh-tw": "\u95dc\u65bc",
+    "ja": "\u3060\u3044\u305f\u3044",
+    "ko": "\uc5d0 \ub300\ud55c",
+    "es": "acerca de"
+  },
+  "Information about the bot, in english only.": {
+    "en": "Information about the bot, in english only.",
+    "zh-cn": "\u6709\u5173\u673a\u5668\u4eba\u7684\u4fe1\u606f\uff0c\u4ec5\u63d0\u4f9b\u82f1\u6587\u7248\u672c\u3002",
+    "zh-tw": "\u6709\u95dc\u6a5f\u5668\u4eba\u7684\u4fe1\u606f\uff0c\u50c5\u63d0\u4f9b\u82f1\u6587\u7248\u672c\u3002",
+    "ja": "\u30dc\u30c3\u30c8\u306b\u95a2\u3059\u308b\u60c5\u5831 (\u82f1\u8a9e\u306e\u307f)\u3002",
+    "ko": "\ubd07\uc5d0 \ub300\ud55c \uc815\ubcf4\ub294 \uc601\uc5b4\ub85c\ub9cc \uc81c\uacf5\ub429\ub2c8\ub2e4.",
+    "es": "Informaci\u00f3n sobre el bot, solo en ingl\u00e9s."
+  },
+  "translate": {
+    "en": "translate",
+    "zh-cn": "\u7ffb\u8bd1",
+    "zh-tw": "\u7ffb\u8b6f",
+    "ja": "\u7ffb\u8a33",
+    "ko": "\ubc88\uc5ed\ud558\ub2e4",
+    "es": "traducir"
+  },
+  "Translate specified text to your local client language or others.": {
+    "en": "Translate specified text to your local client language or others.",
+    "zh-cn": "\u5c06\u6307\u5b9a\u7684\u6587\u672c\u7ffb\u8bd1\u6210\u60a8\u5f53\u5730\u7684\u5ba2\u6237\u7aef\u8bed\u8a00\u6216\u5176\u4ed6\u8bed\u8a00\u3002",
+    "zh-tw": "\u5c07\u6307\u5b9a\u7684\u6587\u672c\u7ffb\u8b6f\u6210\u60a8\u7576\u5730\u7684\u5ba2\u6236\u7aef\u8a9e\u8a00\u6216\u5176\u4ed6\u8a9e\u8a00\u3002",
+    "ja": "\u6307\u5b9a\u3055\u308c\u305f\u30c6\u30ad\u30b9\u30c8\u3092\u30ed\u30fc\u30ab\u30eb \u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u8a00\u8a9e\u307e\u305f\u306f\u4ed6\u306e\u8a00\u8a9e\u306b\u7ffb\u8a33\u3057\u307e\u3059\u3002",
+    "ko": "\uc9c0\uc815\ub41c \ud14d\uc2a4\ud2b8\ub97c \ub85c\uceec \ud074\ub77c\uc774\uc5b8\ud2b8 \uc5b8\uc5b4 \ub610\ub294 \uae30\ud0c0 \uc5b8\uc5b4\ub85c \ubc88\uc5ed\ud569\ub2c8\ub2e4.",
+    "es": "Traduzca el texto especificado al idioma de su cliente local u otros."
+  },
+  "text": {
+    "en": "text",
+    "zh-cn": "\u6587\u672c",
+    "zh-tw": "\u6587\u672c",
+    "ja": "\u6587\u7ae0",
+    "ko": "\ud14d\uc2a4\ud2b8",
+    "es": "texto"
+  },
+  "The text you want to translate.": {
+    "en": "The text you want to translate.",
+    "zh-cn": "\u60a8\u8981\u7ffb\u8bd1\u7684\u6587\u672c\u3002",
+    "zh-tw": "\u60a8\u8981\u7ffb\u8b6f\u7684\u6587\u672c\u3002",
+    "ja": "\u7ffb\u8a33\u3057\u305f\u3044\u30c6\u30ad\u30b9\u30c8\u3002",
+    "ko": "\ubc88\uc5ed\ud558\ub824\ub294 \ud14d\uc2a4\ud2b8\uc785\ub2c8\ub2e4.",
+    "es": "El texto que desea traducir."
+  },
+  "destination": {
+    "en": "destination",
+    "zh-cn": "\u76ee\u7684\u5730",
+    "zh-tw": "\u76ee\u7684\u5730",
+    "ja": "\u884c\u304d\u5148",
+    "ko": "\ubaa9\uc801\uc9c0",
+    "es": "destino"
+  },
+  "What language to translate to.": {
+    "en": "What language to translate to.",
+    "zh-cn": "\u8981\u7ffb\u8bd1\u6210\u4ec0\u4e48\u8bed\u8a00\u3002",
+    "zh-tw": "\u8981\u7ffb\u8b6f\u6210\u4ec0\u9ebc\u8a9e\u8a00\u3002",
+    "ja": "\u3069\u306e\u8a00\u8a9e\u306b\u7ffb\u8a33\u3059\u308b\u304b\u3002",
+    "ko": "\ubc88\uc5ed\ud560 \uc5b8\uc5b4\uc785\ub2c8\ub2e4.",
+    "es": "A qu\u00e9 idioma traducir."
+  },
+  "english": {
+    "en": "english",
+    "zh-cn": "\u82f1\u8bed",
+    "zh-tw": "\u82f1\u8a9e",
+    "ja": "\u82f1\u8a9e",
+    "ko": "\uc601\uc5b4",
+    "es": "ingl\u00e9s"
+  },
+  "japanese": {
+    "en": "japanese",
+    "zh-cn": "\u65e5\u672c\u4eba",
+    "zh-tw": "\u65e5\u672c\u4eba",
+    "ja": "\u65e5\u672c",
+    "ko": "\uc77c\ubcf8\uc5b4",
+    "es": "japon\u00e9s"
+  },
+  "korean": {
+    "en": "korean",
+    "zh-cn": "\u97e9\u56fd\u4eba",
+    "zh-tw": "\u97d3\u570b\u4eba",
+    "ja": "\u97d3\u56fd\u8a9e",
+    "ko": "\ud55c\uad6d\uc778",
+    "es": "coreano"
+  },
+  "spanish": {
+    "en": "spanish",
+    "zh-cn": "\u897f\u73ed\u7259\u8bed",
+    "zh-tw": "\u897f\u73ed\u7259\u8a9e",
+    "ja": "\u30b9\u30da\u30a4\u30f3\u8a9e",
+    "ko": "\uc2a4\ud398\uc778\uc758",
+    "es": "espa\u00f1ol"
+  },
+  "chinese traditional": {
+    "en": "chinese traditional",
+    "zh-cn": "\u4e2d\u56fd\u4f20\u7edf\u7684",
+    "zh-tw": "\u4e2d\u570b\u50b3\u7d71\u7684",
+    "ja": "\u4e2d\u56fd\u306e\u4f1d\u7d71\u7684\u306a",
+    "ko": "\uc911\uad6d \uc804\ud1b5",
+    "es": "chino tradicional"
+  },
+  "chinese simplified": {
+    "en": "chinese simplified",
+    "zh-cn": "\u7b80\u4f53\u4e2d\u6587",
+    "zh-tw": "\u7c21\u9ad4\u4e2d\u6587",
+    "ja": "\u4e2d\u56fd\u8a9e \u7c21\u4f53\u5b57",
+    "ko": "\uc911\uad6d\uc5b4 \uac04\uccb4",
+    "es": "chino simplificado"
+  }
+}
